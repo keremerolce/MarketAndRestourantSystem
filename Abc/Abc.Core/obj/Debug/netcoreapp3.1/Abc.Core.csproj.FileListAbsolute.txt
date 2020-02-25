@@ -1,0 +1,7 @@
+C:\Users\KeremEROL\source\repos\Abc\Abc.Core\bin\Debug\netcoreapp3.1\Abc.Core.deps.json
+C:\Users\KeremEROL\source\repos\Abc\Abc.Core\bin\Debug\netcoreapp3.1\Abc.Core.dll
+C:\Users\KeremEROL\source\repos\Abc\Abc.Core\obj\Debug\netcoreapp3.1\Abc.Core.AssemblyInfoInputs.cache
+C:\Users\KeremEROL\source\repos\Abc\Abc.Core\obj\Debug\netcoreapp3.1\Abc.Core.AssemblyInfo.cs
+C:\Users\KeremEROL\source\repos\Abc\Abc.Core\bin\Debug\netcoreapp3.1\Abc.Core.pdb
+C:\Users\KeremEROL\source\repos\Abc\Abc.Core\obj\Debug\netcoreapp3.1\Abc.Core.dll
+C:\Users\KeremEROL\source\repos\Abc\Abc.Core\obj\Debug\netcoreapp3.1\Abc.Core.pdb

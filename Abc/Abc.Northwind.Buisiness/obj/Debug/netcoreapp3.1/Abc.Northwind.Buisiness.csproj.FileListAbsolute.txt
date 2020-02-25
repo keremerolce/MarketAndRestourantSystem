@@ -1,0 +1,15 @@
+C:\Users\KeremEROL\source\repos\Abc\Abc.Northwind.Buisiness\bin\Debug\netcoreapp3.1\Abc.Northwind.Buisiness.deps.json
+C:\Users\KeremEROL\source\repos\Abc\Abc.Northwind.Buisiness\bin\Debug\netcoreapp3.1\Abc.Northwind.Buisiness.dll
+C:\Users\KeremEROL\source\repos\Abc\Abc.Northwind.Buisiness\bin\Debug\netcoreapp3.1\Abc.Northwind.Buisiness.pdb
+C:\Users\KeremEROL\source\repos\Abc\Abc.Northwind.Buisiness\obj\Debug\netcoreapp3.1\Abc.Northwind.Buisiness.AssemblyInfoInputs.cache
+C:\Users\KeremEROL\source\repos\Abc\Abc.Northwind.Buisiness\obj\Debug\netcoreapp3.1\Abc.Northwind.Buisiness.AssemblyInfo.cs
+C:\Users\KeremEROL\source\repos\Abc\Abc.Northwind.Buisiness\obj\Debug\netcoreapp3.1\Abc.Northwind.Buisiness.dll
+C:\Users\KeremEROL\source\repos\Abc\Abc.Northwind.Buisiness\obj\Debug\netcoreapp3.1\Abc.Northwind.Buisiness.pdb
+C:\Users\KeremEROL\source\repos\Abc\Abc.Northwind.Buisiness\bin\Debug\netcoreapp3.1\Abc.Core.dll
+C:\Users\KeremEROL\source\repos\Abc\Abc.Northwind.Buisiness\bin\Debug\netcoreapp3.1\Abc.Northwind.Entity.dll
+C:\Users\KeremEROL\source\repos\Abc\Abc.Northwind.Buisiness\bin\Debug\netcoreapp3.1\Abc.Northwind.Entity.pdb
+C:\Users\KeremEROL\source\repos\Abc\Abc.Northwind.Buisiness\bin\Debug\netcoreapp3.1\Abc.Core.pdb
+C:\Users\KeremEROL\source\repos\Abc\Abc.Northwind.Buisiness\obj\Debug\netcoreapp3.1\Abc.Northwind.Buisiness.csprojAssemblyReference.cache
+C:\Users\KeremEROL\source\repos\Abc\Abc.Northwind.Buisiness\obj\Debug\netcoreapp3.1\Abc.Northwind.Buisiness.csproj.CopyComplete
+C:\Users\KeremEROL\source\repos\Abc\Abc.Northwind.Buisiness\bin\Debug\netcoreapp3.1\Abc.Northwind.DataAccess.dll
+C:\Users\KeremEROL\source\repos\Abc\Abc.Northwind.Buisiness\bin\Debug\netcoreapp3.1\Abc.Northwind.DataAccess.pdb

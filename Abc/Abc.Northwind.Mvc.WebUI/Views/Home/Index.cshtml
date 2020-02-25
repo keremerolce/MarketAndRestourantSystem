@@ -1,0 +1,44 @@
+﻿@model Abc.Northwind.Mvc.WebUI.Models.ProductListViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+    <div class="container">
+        <div class="row">
+            <a href="./Home/add" class="align-bottom">Stok ekleme</a>
+        </div>
+        <div class="row">
+            <div class="table">
+                <table class="table table-responsive">
+                    <tr>
+
+                        <td>ProductName</td>
+                        <td>CategoryId</td>
+                        <td>UnitPrice</td>
+                        <td>UnitInStock</td>
+                    </tr>
+                    <tr>
+                        @foreach (var product in Model.Products)
+                        {
+
+                            <td>
+                                @product.ProductName
+                            </td>
+                            <td>
+                                @product.CategoryId
+                            </td>
+                            <td>
+                                @product.UnitPrice
+                            </td>
+                            <td>
+                                @product.UnitInStock
+                            </td>
+                        }
+                    </tr>
+                </table>
+            </div>
+
+        </div>
+        
+    </div>
