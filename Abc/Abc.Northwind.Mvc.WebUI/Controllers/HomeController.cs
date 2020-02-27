@@ -28,7 +28,11 @@ namespace Abc.Northwind.Mvc.WebUI.Controllers
             var products=_productService.GetByCategory(category);
             ProductListViewModel model = new ProductListViewModel
             {
-                Products = products.Skip(pageSize*(page-1)).Take(pageSize).ToList(),
+                Products = products.Skip(pageSize * (page - 1)).Take(pageSize).ToList(),
+                PageCount = (int)Math.Ceiling(products.Count / (double)pageSize),
+                PageSize = pageSize,
+                CurrentCategory=category,
+                CurrentPage=page
             };
             return View(model);
         }

@@ -4968,11 +4968,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KeremEROL\\source\\repos\\Abc\\Abc.Northwind.DataAccess\\Abc.Northwind.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\KeremEROL\\Desktop\\MyGithub\\MarketAndRestourantSystem\\Abc\\Abc.Northwind.DataAccess\\Abc.Northwind.DataAccess.csproj",
       "projectName": "Abc.Northwind.DataAccess",
-      "projectPath": "C:\\Users\\KeremEROL\\source\\repos\\Abc\\Abc.Northwind.DataAccess\\Abc.Northwind.DataAccess.csproj",
+      "projectPath": "C:\\Users\\KeremEROL\\Desktop\\MyGithub\\MarketAndRestourantSystem\\Abc\\Abc.Northwind.DataAccess\\Abc.Northwind.DataAccess.csproj",
       "packagesPath": "C:\\Users\\KeremEROL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KeremEROL\\source\\repos\\Abc\\Abc.Northwind.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\KeremEROL\\Desktop\\MyGithub\\MarketAndRestourantSystem\\Abc\\Abc.Northwind.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KeremEROL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4988,11 +4988,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\KeremEROL\\source\\repos\\Abc\\Abc.Core\\Abc.Core.csproj": {
-              "projectPath": "C:\\Users\\KeremEROL\\source\\repos\\Abc\\Abc.Core\\Abc.Core.csproj"
+            "C:\\Users\\KeremEROL\\Desktop\\MyGithub\\MarketAndRestourantSystem\\Abc\\Abc.Core\\Abc.Core.csproj": {
+              "projectPath": "C:\\Users\\KeremEROL\\Desktop\\MyGithub\\MarketAndRestourantSystem\\Abc\\Abc.Core\\Abc.Core.csproj"
             },
-            "C:\\Users\\KeremEROL\\source\\repos\\Abc\\Abc.Northwind.Entity\\Abc.Northwind.Entity.csproj": {
-              "projectPath": "C:\\Users\\KeremEROL\\source\\repos\\Abc\\Abc.Northwind.Entity\\Abc.Northwind.Entity.csproj"
+            "C:\\Users\\KeremEROL\\Desktop\\MyGithub\\MarketAndRestourantSystem\\Abc\\Abc.Northwind.Entity\\Abc.Northwind.Entity.csproj": {
+              "projectPath": "C:\\Users\\KeremEROL\\Desktop\\MyGithub\\MarketAndRestourantSystem\\Abc\\Abc.Northwind.Entity\\Abc.Northwind.Entity.csproj"
             }
           }
         }

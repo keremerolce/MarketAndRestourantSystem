@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KeremEROL\\source\\repos\\Abc\\Abc.Core\\Abc.Core.csproj": {}
+    "C:\\Users\\KeremEROL\\Desktop\\MyGithub\\MarketAndRestourantSystem\\Abc\\Abc.Core\\Abc.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KeremEROL\\source\\repos\\Abc\\Abc.Core\\Abc.Core.csproj": {
+    "C:\\Users\\KeremEROL\\Desktop\\MyGithub\\MarketAndRestourantSystem\\Abc\\Abc.Core\\Abc.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KeremEROL\\source\\repos\\Abc\\Abc.Core\\Abc.Core.csproj",
+        "projectUniqueName": "C:\\Users\\KeremEROL\\Desktop\\MyGithub\\MarketAndRestourantSystem\\Abc\\Abc.Core\\Abc.Core.csproj",
         "projectName": "Abc.Core",
-        "projectPath": "C:\\Users\\KeremEROL\\source\\repos\\Abc\\Abc.Core\\Abc.Core.csproj",
+        "projectPath": "C:\\Users\\KeremEROL\\Desktop\\MyGithub\\MarketAndRestourantSystem\\Abc\\Abc.Core\\Abc.Core.csproj",
         "packagesPath": "C:\\Users\\KeremEROL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KeremEROL\\source\\repos\\Abc\\Abc.Core\\obj\\",
+        "outputPath": "C:\\Users\\KeremEROL\\Desktop\\MyGithub\\MarketAndRestourantSystem\\Abc\\Abc.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KeremEROL\\AppData\\Roaming\\NuGet\\NuGet.Config",

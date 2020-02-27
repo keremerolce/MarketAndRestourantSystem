@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KeremEROL\\source\\repos\\Abc\\Abc.Northwind.Buisiness\\Abc.Northwind.Buisiness.csproj": {}
+    "C:\\Users\\KeremEROL\\Desktop\\MyGithub\\MarketAndRestourantSystem\\Abc\\Abc.Northwind.Buisiness\\Abc.Northwind.Buisiness.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KeremEROL\\source\\repos\\Abc\\Abc.Core\\Abc.Core.csproj": {
+    "C:\\Users\\KeremEROL\\Desktop\\MyGithub\\MarketAndRestourantSystem\\Abc\\Abc.Core\\Abc.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KeremEROL\\source\\repos\\Abc\\Abc.Core\\Abc.Core.csproj",
+        "projectUniqueName": "C:\\Users\\KeremEROL\\Desktop\\MyGithub\\MarketAndRestourantSystem\\Abc\\Abc.Core\\Abc.Core.csproj",
         "projectName": "Abc.Core",
-        "projectPath": "C:\\Users\\KeremEROL\\source\\repos\\Abc\\Abc.Core\\Abc.Core.csproj",
+        "projectPath": "C:\\Users\\KeremEROL\\Desktop\\MyGithub\\MarketAndRestourantSystem\\Abc\\Abc.Core\\Abc.Core.csproj",
         "packagesPath": "C:\\Users\\KeremEROL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KeremEROL\\source\\repos\\Abc\\Abc.Core\\obj\\",
+        "outputPath": "C:\\Users\\KeremEROL\\Desktop\\MyGithub\\MarketAndRestourantSystem\\Abc\\Abc.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KeremEROL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\KeremEROL\\source\\repos\\Abc\\Abc.Northwind.Buisiness\\Abc.Northwind.Buisiness.csproj": {
+    "C:\\Users\\KeremEROL\\Desktop\\MyGithub\\MarketAndRestourantSystem\\Abc\\Abc.Northwind.Buisiness\\Abc.Northwind.Buisiness.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KeremEROL\\source\\repos\\Abc\\Abc.Northwind.Buisiness\\Abc.Northwind.Buisiness.csproj",
+        "projectUniqueName": "C:\\Users\\KeremEROL\\Desktop\\MyGithub\\MarketAndRestourantSystem\\Abc\\Abc.Northwind.Buisiness\\Abc.Northwind.Buisiness.csproj",
         "projectName": "Abc.Northwind.Buisiness",
-        "projectPath": "C:\\Users\\KeremEROL\\source\\repos\\Abc\\Abc.Northwind.Buisiness\\Abc.Northwind.Buisiness.csproj",
+        "projectPath": "C:\\Users\\KeremEROL\\Desktop\\MyGithub\\MarketAndRestourantSystem\\Abc\\Abc.Northwind.Buisiness\\Abc.Northwind.Buisiness.csproj",
         "packagesPath": "C:\\Users\\KeremEROL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KeremEROL\\source\\repos\\Abc\\Abc.Northwind.Buisiness\\obj\\",
+        "outputPath": "C:\\Users\\KeremEROL\\Desktop\\MyGithub\\MarketAndRestourantSystem\\Abc\\Abc.Northwind.Buisiness\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KeremEROL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -85,11 +85,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\KeremEROL\\source\\repos\\Abc\\Abc.Northwind.DataAccess\\Abc.Northwind.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\KeremEROL\\source\\repos\\Abc\\Abc.Northwind.DataAccess\\Abc.Northwind.DataAccess.csproj"
+              "C:\\Users\\KeremEROL\\Desktop\\MyGithub\\MarketAndRestourantSystem\\Abc\\Abc.Northwind.DataAccess\\Abc.Northwind.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\KeremEROL\\Desktop\\MyGithub\\MarketAndRestourantSystem\\Abc\\Abc.Northwind.DataAccess\\Abc.Northwind.DataAccess.csproj"
               },
-              "C:\\Users\\KeremEROL\\source\\repos\\Abc\\Abc.Northwind.Entity\\Abc.Northwind.Entity.csproj": {
-                "projectPath": "C:\\Users\\KeremEROL\\source\\repos\\Abc\\Abc.Northwind.Entity\\Abc.Northwind.Entity.csproj"
+              "C:\\Users\\KeremEROL\\Desktop\\MyGithub\\MarketAndRestourantSystem\\Abc\\Abc.Northwind.Entity\\Abc.Northwind.Entity.csproj": {
+                "projectPath": "C:\\Users\\KeremEROL\\Desktop\\MyGithub\\MarketAndRestourantSystem\\Abc\\Abc.Northwind.Entity\\Abc.Northwind.Entity.csproj"
               }
             }
           }
@@ -121,14 +121,14 @@
         }
       }
     },
-    "C:\\Users\\KeremEROL\\source\\repos\\Abc\\Abc.Northwind.DataAccess\\Abc.Northwind.DataAccess.csproj": {
+    "C:\\Users\\KeremEROL\\Desktop\\MyGithub\\MarketAndRestourantSystem\\Abc\\Abc.Northwind.DataAccess\\Abc.Northwind.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KeremEROL\\source\\repos\\Abc\\Abc.Northwind.DataAccess\\Abc.Northwind.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\KeremEROL\\Desktop\\MyGithub\\MarketAndRestourantSystem\\Abc\\Abc.Northwind.DataAccess\\Abc.Northwind.DataAccess.csproj",
         "projectName": "Abc.Northwind.DataAccess",
-        "projectPath": "C:\\Users\\KeremEROL\\source\\repos\\Abc\\Abc.Northwind.DataAccess\\Abc.Northwind.DataAccess.csproj",
+        "projectPath": "C:\\Users\\KeremEROL\\Desktop\\MyGithub\\MarketAndRestourantSystem\\Abc\\Abc.Northwind.DataAccess\\Abc.Northwind.DataAccess.csproj",
         "packagesPath": "C:\\Users\\KeremEROL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KeremEROL\\source\\repos\\Abc\\Abc.Northwind.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\KeremEROL\\Desktop\\MyGithub\\MarketAndRestourantSystem\\Abc\\Abc.Northwind.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KeremEROL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -144,11 +144,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\KeremEROL\\source\\repos\\Abc\\Abc.Core\\Abc.Core.csproj": {
-                "projectPath": "C:\\Users\\KeremEROL\\source\\repos\\Abc\\Abc.Core\\Abc.Core.csproj"
+              "C:\\Users\\KeremEROL\\Desktop\\MyGithub\\MarketAndRestourantSystem\\Abc\\Abc.Core\\Abc.Core.csproj": {
+                "projectPath": "C:\\Users\\KeremEROL\\Desktop\\MyGithub\\MarketAndRestourantSystem\\Abc\\Abc.Core\\Abc.Core.csproj"
               },
-              "C:\\Users\\KeremEROL\\source\\repos\\Abc\\Abc.Northwind.Entity\\Abc.Northwind.Entity.csproj": {
-                "projectPath": "C:\\Users\\KeremEROL\\source\\repos\\Abc\\Abc.Northwind.Entity\\Abc.Northwind.Entity.csproj"
+              "C:\\Users\\KeremEROL\\Desktop\\MyGithub\\MarketAndRestourantSystem\\Abc\\Abc.Northwind.Entity\\Abc.Northwind.Entity.csproj": {
+                "projectPath": "C:\\Users\\KeremEROL\\Desktop\\MyGithub\\MarketAndRestourantSystem\\Abc\\Abc.Northwind.Entity\\Abc.Northwind.Entity.csproj"
               }
             }
           }
@@ -186,14 +186,14 @@
         }
       }
     },
-    "C:\\Users\\KeremEROL\\source\\repos\\Abc\\Abc.Northwind.Entity\\Abc.Northwind.Entity.csproj": {
+    "C:\\Users\\KeremEROL\\Desktop\\MyGithub\\MarketAndRestourantSystem\\Abc\\Abc.Northwind.Entity\\Abc.Northwind.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KeremEROL\\source\\repos\\Abc\\Abc.Northwind.Entity\\Abc.Northwind.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\KeremEROL\\Desktop\\MyGithub\\MarketAndRestourantSystem\\Abc\\Abc.Northwind.Entity\\Abc.Northwind.Entity.csproj",
         "projectName": "Abc.Northwind.Entity",
-        "projectPath": "C:\\Users\\KeremEROL\\source\\repos\\Abc\\Abc.Northwind.Entity\\Abc.Northwind.Entity.csproj",
+        "projectPath": "C:\\Users\\KeremEROL\\Desktop\\MyGithub\\MarketAndRestourantSystem\\Abc\\Abc.Northwind.Entity\\Abc.Northwind.Entity.csproj",
         "packagesPath": "C:\\Users\\KeremEROL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KeremEROL\\source\\repos\\Abc\\Abc.Northwind.Entity\\obj\\",
+        "outputPath": "C:\\Users\\KeremEROL\\Desktop\\MyGithub\\MarketAndRestourantSystem\\Abc\\Abc.Northwind.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KeremEROL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -209,8 +209,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\KeremEROL\\source\\repos\\Abc\\Abc.Core\\Abc.Core.csproj": {
-                "projectPath": "C:\\Users\\KeremEROL\\source\\repos\\Abc\\Abc.Core\\Abc.Core.csproj"
+              "C:\\Users\\KeremEROL\\Desktop\\MyGithub\\MarketAndRestourantSystem\\Abc\\Abc.Core\\Abc.Core.csproj": {
+                "projectPath": "C:\\Users\\KeremEROL\\Desktop\\MyGithub\\MarketAndRestourantSystem\\Abc\\Abc.Core\\Abc.Core.csproj"
               }
             }
           }

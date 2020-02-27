@@ -1,48 +1,56 @@
 ﻿@model Abc.Northwind.Mvc.WebUI.Models.ProductListViewModel
+@addTagHelper *,Abc.Northwind.Mvc.WebUI
 @{
     ViewData["Title"] = "Home Page";
 }
 
 
-    <div class="container">
-        <div class="row">
-            <a href="./Home/add" class="align-bottom">Stok ekleme</a>
-        </div>
-        <div class="row">
-            <div class="table">
-                <table class="table table-responsive">
+<div class="container">
+    <div class="row">
+        <a href="./Home/add" class="align-bottom">Stok ekleme</a>
+    </div>
+    <div class="row">
+        <div class="table">
+            <table class="table table-responsive">
+                <tr>
+
+                    <td>ProductName</td>
+                    <td>CategoryId</td>
+                    <td>UnitPrice</td>
+                    <td>UnitInStock</td>
+                </tr>
+                @foreach (var product in Model.Products)
+
+                {
                     <tr>
 
-                        <td>ProductName</td>
-                        <td>CategoryId</td>
-                        <td>UnitPrice</td>
-                        <td>UnitInStock</td>
+
+
+                        <td>
+                            @product.ProductName
+                        </td>
+                        <td>
+                            @product.CategoryId
+                        </td>
+                        <td>
+                            @product.UnitPrice
+                        </td>
+                        <td>
+                            @product.UnitInStock
+                        </td>
+
                     </tr>
-                    @foreach (var product in Model.Products)
-
-                    {
-                        <tr>
-
-                            
-
-                            <td>
-                                @product.ProductName
-                            </td>
-                            <td>
-                                @product.CategoryId
-                            </td>
-                            <td>
-                                @product.UnitPrice
-                            </td>
-                            <td>
-                                @product.UnitInStock
-                            </td>
-                            
-                        </tr>
-                    }
-                </table>
-            </div>
-
+                }
+            </table>
         </div>
-        
+
     </div>
+
+</div>
+<product-list-pager current-category="@Model.CurrentCategory"
+                    current-page="@Model.CurrentPage"
+                    page-count="@Model.PageCount"
+                    page-size="@Model.PageSize">
+
+</product-list-pager>
+
