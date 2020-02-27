@@ -21,7 +21,7 @@ namespace Abc.Northwind.Buisiness.Concrete
 
         public List<Product> GetByCategory(int CategoryId)
         {
-            return _productDal.GetList(p=>p.CategoryId==CategoryId);
+            return _productDal.GetList(p=>p.CategoryId==CategoryId||CategoryId==0);
         }
         public void Add(Product product)
         {

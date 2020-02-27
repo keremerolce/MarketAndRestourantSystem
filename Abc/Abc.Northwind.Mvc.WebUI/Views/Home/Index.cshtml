@@ -18,9 +18,12 @@
                         <td>UnitPrice</td>
                         <td>UnitInStock</td>
                     </tr>
-                    <tr>
-                        @foreach (var product in Model.Products)
-                        {
+                    @foreach (var product in Model.Products)
+
+                    {
+                        <tr>
+
+                            
 
                             <td>
                                 @product.ProductName
@@ -34,8 +37,9 @@
                             <td>
                                 @product.UnitInStock
                             </td>
-                        }
-                    </tr>
+                            
+                        </tr>
+                    }
                 </table>
             </div>
 
